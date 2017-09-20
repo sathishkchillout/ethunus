@@ -7,5 +7,5 @@ printf("zero");
 else if(a>0)
 printf("positive number");
 else
-printf(:negative no");}
+printf("negative no");}
 
